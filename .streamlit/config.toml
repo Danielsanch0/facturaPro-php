@@ -1,0 +1,8 @@
+[server]
+enableStaticServing = true
+
+[theme]
+primaryColor = "#FFFFFF"  # Color primario (botones, enlaces, etc.)
+backgroundColor = "#000000"  # Color de fondo
+secondaryBackgroundColor = "#333333"  # Color secundario de fondo
+textColor = "#FFFFFF"  # Color del texto
